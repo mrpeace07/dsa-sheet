@@ -1,0 +1,836 @@
+
+Array 
+
+Two Sum - Problem 1 
+
+Container With Most Water - Problem 11 
+
+Three Sum - Problem 15 
+
+Maximum Subarray - Problem 53 
+
+Merge Intervals - Problem 56 
+
+Rotate Image - Problem 48 
+
+Spiral Matrix - Problem 54 
+
+Jump Game - Problem 55 
+
+Merge Sorted Array - Problem 88 
+
+Set Matrix Zeroes - Problem 73 
+
+Product of Array Except Self - Problem 238 
+
+Move Zeroes - Problem 283 
+
+Best Time to Buy and Sell Stock - Problem 121 
+
+Pascal's Triangle - Problem 118 
+
+Search in Rotated Sorted Array - Problem 33 
+
+Combination Sum - Problem 39 
+
+Subarray Sum Equals K - Problem 560 
+
+Valid Sudoku - Problem 36 
+
+Minimum Size Subarray Sum - Problem 209 
+
+Contains Duplicate - Problem 217 
+
+ 
+
+String 
+
+Reverse String - Problem 344 
+
+Valid Parentheses - Problem 20 
+
+Longest Palindromic Substring - Problem 5 
+
+String to Integer (atoi) - Problem 8 
+
+Longest Substring Without Repeating Characters - Problem 3 
+
+Implement strStr() - Problem 28 
+
+Valid Palindrome - Problem 125 
+
+Count and Say - Problem 38 
+
+Longest Common Prefix - Problem 14 
+
+Palindrome Number - Problem 9 
+
+ZigZag Conversion - Problem 6 
+
+Regular Expression Matching - Problem 10 
+
+Minimum Window Substring - Problem 76 
+
+Group Anagrams - Problem 49 
+
+Decode String - Problem 394 
+
+Add Binary - Problem 67 
+
+Multiply Strings - Problem 43 
+
+String Compression - Problem 443 
+
+Generate Parentheses - Problem 22 
+
+Word Search - Problem 79 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Linked List 
+
+Reverse Linked List - Problem 206 
+
+Merge Two Sorted Lists - Problem 21 
+
+Linked List Cycle - Problem 141 
+
+Intersection of Two Linked Lists - Problem 160 
+
+Remove Nth Node From End of List - Problem 19 
+
+Add Two Numbers - Problem 2 
+
+Palindrome Linked List - Problem 234 
+
+Merge K Sorted Lists - Problem 23 
+
+Copy List with Random Pointer - Problem 138 
+
+Flatten a Multilevel Doubly Linked List - Problem 430 
+
+Remove Duplicates from Sorted List - Problem 83 
+
+Swap Nodes in Pairs - Problem 24 
+
+Reverse Nodes in k-Group - Problem 25 
+
+Rotate List - Problem 61 
+
+Partition List - Problem 86 
+
+Odd Even Linked List - Problem 328 
+
+Intersection of Two Linked Lists - Problem 160 
+
+Remove Linked List Elements - Problem 203 
+
+Reorder List - Problem 143 
+
+Convert Sorted List to Binary Search Tree - Problem 109 
+
+ 
+
+Stack 
+
+Valid Parentheses - Problem 20 
+
+Evaluate Reverse Polish Notation - Problem 150 
+
+Min Stack - Problem 155 
+
+Decode String - Problem 394 
+
+Next Greater Element - Problem 496 
+
+Largest Rectangle in Histogram - Problem 84 
+
+Design a Stack with Increment Operation - Problem 1381 
+
+Implement Queue using Stacks - Problem 232 
+
+Binary Tree Inorder Traversal - Problem 94 
+
+Simplify Path - Problem 71 
+
+Remove All Adjacent Duplicates in String - Problem 1047 
+
+Daily Temperatures - Problem 739 
+
+Implement Queue using Stacks - Problem 232 
+
+Remove K Digits - Problem 402 
+
+Exclusive Time of Functions - Problem 636 
+
+Online Stock Span - Problem 901 
+
+Maximal Rectangle - Problem 85 
+
+Trapping Rain Water - Problem 42 
+
+Valid Parenthesis String - Problem 678 
+
+Basic Calculator - Problem 224 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Queue 
+
+Implement Queue using Stacks - Problem 232 
+
+Design Circular Queue - Problem 622 
+
+Number of Recent Calls - Problem 933 
+
+Moving Average from Data Stream - Problem 346 
+
+Implement Stack using Queues - Problem 225 
+
+Sliding Window Maximum - Problem 239 
+
+Rotting Oranges - Problem 994 
+
+First Unique Character in a String - Problem 387 
+
+Design Hit Counter - Problem 362 
+
+Design Snake Game - Problem 353 
+
+Find the Most Competitive Subsequence - Problem 1673 
+
+Shortest Path in Binary Matrix - Problem 1091 
+
+Jump Game III - Problem 1306 
+
+Serialize and Deserialize Binary Tree - Problem 297 
+
+Populating Next Right Pointers in Each Node - Problem 116 
+
+Open the Lock - Problem 752 
+
+Binary Tree Zigzag Level Order Traversal - Problem 103 
+
+The Maze - Problem 490 
+
+Kth Largest Element in a Stream - Problem 703 
+
+Binary Tree Level Order Traversal - Problem 102 
+
+ 
+
+Hashmaps 
+
+Two Sum - Problem 1 
+
+Longest Substring Without Repeating Characters - Problem 3 
+
+Group Anagrams - Problem 49 
+
+Subarray Sum Equals K - Problem 560 
+
+Valid Sudoku - Problem 36 
+
+Minimum Window Substring - Problem 76 
+
+Longest Consecutive Sequence - Problem 128 
+
+Intersection of Two Arrays - Problem 349 
+
+Word Pattern - Problem 290 
+
+Contains Duplicate - Problem 217 
+
+First Unique Character in a String - Problem 387 
+
+Find All Anagrams in a String - Problem 438 
+
+Isomorphic Strings - Problem 205 
+
+Minimum Size Subarray Sum - Problem 209 
+
+Sort Characters By Frequency - Problem 451 
+
+Insert Delete GetRandom O(1) - Duplicates allowed - Problem 381 
+
+Fraction to Recurring Decimal - Problem 166 
+
+Maximum Points You Can Obtain from Cards - Problem 1423 
+
+Group Shifted Strings - Problem 249 
+
+Number of Valid Sudoku Boards - Problem 37 
+
+ 
+
+ 
+
+Recursion 
+
+Factorial - Problem 172 
+
+Fibonacci Sequence - Problem 509 
+
+Reverse a String - Problem 344 
+
+Binary Search - Problem 704 
+
+Merge Sort - Problem 912 
+
+Quick Sort - Problem 912 
+
+Tower of Hanoi - Problem 1175 
+
+Compute Power Function - Problem 50 
+
+Calculate GCD (Greatest Common Divisor) - Problem 365 
+
+Counting Paths in a Grid - Problem 62 
+
+Sum of Subset - Problem 416 
+
+Generate Subsets - Problem 78 
+
+Permutations of a String - Problem 46 
+
+Combination Sum - Problem 39 
+
+Generate Parentheses - Problem 22 
+
+Tree Traversals (Inorder, Preorder, Postorder) - Various problems, e.g., 94, 144, 145 
+
+Check Balanced Parentheses - Problem 20 
+
+Check Palindrome - Problem 125 
+
+Calculate Fibonacci using Dynamic Programming - Problem 509 (for Fibonacci sequence) 
+
+Graph Traversals (DFS, BFS) - Various problems, e.g., 200, 130 
+
+ 
+
+Backtracking 
+
+N-Queens Problem - Problem 51 
+
+Sudoku Solver - Problem 37 
+
+Word Search - Problem 79 
+
+Subset Sum - Problem 416 
+
+Combination Sum - Problem 39 
+
+Permutations - Problem 46 
+
+Generate Parentheses - Problem 22 
+
+Knight's Tour - Problem 1197 
+
+Rat in a Maze - Problem 62 
+
+Letter Combinations of a Phone Number - Problem 17 
+
+Generate IP Addresses - Problem 93 
+
+Palindrome Partitioning - Problem 131 
+
+Word Break Problem - Problem 139 
+
+Regular Expression Matching - Problem 10 
+
+Path Sum in Binary Tree - Problem 112 
+
+Subset Sum - Problem 416 
+
+Hamiltonian Cycle - Problem 980 
+
+Subset Sum Problem - Problem 416 
+
+Subset Sum Problem - Problem 416 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Depth-First Search (DFS) 
+
+Number of Islands - Problem 200 
+
+Word Search - Problem 79 
+
+Surrounded Regions - Problem 130 
+
+Binary Tree Maximum Path Sum - Problem 124 
+
+Course Schedule - Problem 207 
+
+Graph Valid Tree - Problem 261 
+
+Pacific Atlantic Water Flow - Problem 417 
+
+Flatten Binary Tree to Linked List - Problem 114 
+
+Island Perimeter - Problem 463 
+
+Graph Valid Tree - Problem 261 
+
+Palindrome Partitioning - Problem 131 
+
+Word Break - Problem 139 
+
+Path Sum II - Problem 113 
+
+Binary Tree Paths - Problem 257 
+
+Number of Connected Components in an Undirected Graph - Problem 323 
+
+Pacific Atlantic Water Flow - Problem 417 
+
+Word Search II - Problem 212 
+
+Minimum Path Sum - Problem 64 
+
+Sum Root to Leaf Numbers - Problem 129 
+
+Binary Tree Longest Consecutive Sequence - Problem 298 
+
+ 
+
+Breadth-First Search (BFS) 
+
+Binary Tree Level Order Traversal - Problem 102 
+
+Shortest Path in Binary Matrix - Problem 1091 
+
+Word Ladder - Problem 127 
+
+Clone Graph - Problem 133 
+
+Perfect Squares - Problem 279 
+
+Course Schedule - Problem 207 
+
+Minimum Genetic Mutation - Problem 433 
+
+Cheapest Flights Within K Stops - Problem 787 
+
+Binary Tree Zigzag Level Order Traversal - Problem 103 
+
+The Maze - Problem 490 
+
+As Far from Land as Possible - Problem 1162 
+
+Number of Islands II - Problem 305 
+
+Shortest Bridge - Problem 934 
+
+Cut Off Trees for Golf Event - Problem 675 
+
+Jump Game IV - Problem 1345 
+
+Minimum Knight Moves - Problem 1197 
+
+Bus Routes - Problem 815 
+
+Open the Lock - Problem 752 
+
+Word Search II - Problem 212 
+
+Network Delay Time - Problem 743 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Trees 
+
+Validate Binary Search Tree - Problem 98 
+
+Binary Tree Level Order Traversal - Problem 102 
+
+Lowest Common Ancestor of a Binary Tree - Problem 236 
+
+Binary Tree Maximum Path Sum - Problem 124 
+
+Serialize and Deserialize Binary Tree - Problem 297 
+
+Symmetric Tree - Problem 101 
+
+Invert Binary Tree - Problem 226 
+
+Binary Tree Right Side View - Problem 199 
+
+Construct Binary Tree from Preorder and Inorder Traversal - Problem 105 
+
+Binary Search Tree Iterator - Problem 173 
+
+Find Largest Value in Each Tree Row - Problem 515 
+
+Balanced Binary Tree - Problem 110 
+
+Populating Next Right Pointers in Each Node - Problem 116 
+
+Binary Tree Longest Consecutive Sequence - Problem 298 
+
+Count Complete Tree Nodes - Problem 222 
+
+Path Sum III - Problem 437 
+
+Binary Tree Paths - Problem 257 
+
+Sum of Left Leaves - Problem 404 
+
+Subtree of Another Tree - Problem 572 
+
+Delete Node in a BST - Problem 450 
+
+ 
+
+Graphs 
+
+Number of Islands - Problem 200 
+
+Course Schedule - Problem 207 
+
+Clone Graph - Problem 133 
+
+Word Ladder - Problem 127 
+
+Network Delay Time - Problem 743 
+
+Pacific Atlantic Water Flow - Problem 417 
+
+Cheapest Flights Within K Stops - Problem 787 
+
+Graph Valid Tree - Problem 261 
+
+Island Perimeter - Problem 463 
+
+Redundant Connection - Problem 684 
+
+Alien Dictionary - Problem 269 
+
+Number of Connected Components in an Undirected Graph - Problem 323 
+
+Find the City With the Smallest Number of Neighbors at a Threshold Distance - Problem 1334 
+
+Critical Connections in a Network - Problem 1192 
+
+Cat and Mouse - Problem 913 
+
+Minimum Height Trees - Problem 310 
+
+Evaluate Division - Problem 399 
+
+Is Graph Bipartite? - Problem 785 
+
+Network Delay Time - Problem 743 
+
+Graph Valid Tree 
+
+ 
+
+ 
+
+Dynamic Programming (DP) 
+
+Climbing Stairs - Problem 70 
+
+House Robber - Problem 198 
+
+Best Time to Buy and Sell Stock - Problem 121 
+
+Unique Paths - Problem 62 
+
+Coin Change - Problem 322 
+
+Longest Increasing Subsequence - Problem 300 
+
+Minimum Path Sum - Problem 64 
+
+Palindrome Partitioning II - Problem 132 
+
+Decode Ways - Problem 91 
+
+Maximum Product Subarray - Problem 152 
+
+Word Break - Problem 139 
+
+Jump Game - Problem 55 
+
+Regular Expression Matching - Problem 10 
+
+Distinct Subsequences - Problem 115 
+
+Interleaving String - Problem 97 
+
+Longest Palindromic Subsequence - Problem 516 
+
+Wildcard Matching - Problem 44 
+
+Minimum ASCII Delete Sum for Two Strings - Problem 712 
+
+Partition Equal Subset Sum - Problem 416 
+
+Target Sum - Problem 494 
+
+ 
+
+Bit Manipulation 
+
+Single Number - Problem 136 
+
+Reverse Bits - Problem 190 
+
+Number of 1 Bits - Problem 191 
+
+Power of Two - Problem 231 
+
+Counting Bits - Problem 338 
+
+Missing Number - Problem 268 
+
+Bitwise AND of Numbers Range - Problem 201 
+
+Maximum XOR of Two Numbers in an Array - Problem 421 
+
+Total Hamming Distance - Problem 477 
+
+Maximum Product of Three Numbers - Problem 628 
+
+Single Number II - Problem 137 
+
+Sum of Two Integers - Problem 371 
+
+Subarray XOR Query - Problem 1310 
+
+Bitwise ORs of Subarrays - Problem 898 
+
+Find Maximum XOR of Two Numbers in an Array - Problem 421 
+
+Count Pairs with XOR in a Range - Problem 1803 
+
+Binary Watch - Problem 401 
+
+Find Median Given Frequency of Numbers - Problem 1675 
+
+Minimum Number of Flips to Convert Binary Matrix to Zero Matrix - Problem 1284 
+
+Number Complement - Problem 476 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sliding Window 
+
+Minimum Size Subarray Sum - Problem 209 
+
+Longest Substring Without Repeating Characters - Problem 3 
+
+Substring with Concatenation of All Words - Problem 30 
+
+Longest Substring with At Most Two Distinct Characters - Problem 159 
+
+Longest Repeating Character Replacement - Problem 424 
+
+Fruit Into Baskets - Problem 904 
+
+Permutation in String - Problem 567 
+
+Maximum Points You Can Obtain from Cards - Problem 1423 
+
+Max Consecutive Ones III - Problem 1004 
+
+Longest Subarray of 1's After Deleting One Element - Problem 1493 
+
+Longest Mountain in Array - Problem 845 
+
+Sliding Window Maximum - Problem 239 
+
+Minimum Window Substring - Problem 76 
+
+Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit - Problem 1438 
+
+Longest Substring with At Least K Repeating Characters - Problem 395 
+
+Constrained Subsequence Sum - Problem 1425 
+
+Maximum Erasure Value - Problem 1695 
+
+Count Number of Nice Subarrays - Problem 1248 
+
+Subarrays with K Different Integers - Problem 992 
+
+Longest Continuous Increasing Subsequence - Problem 674 
+
+ 
+
+Two Pointers 
+
+Two Sum II - Input array is sorted - Problem 167 
+
+Container With Most Water - Problem 11 
+
+3Sum - Problem 15 
+
+4Sum - Problem 18 
+
+Sort Colors - Problem 75 
+
+Trapping Rain Water - Problem 42 
+
+Remove Duplicates from Sorted Array - Problem 26 
+
+Move Zeroes - Problem 283 
+
+Valid Palindrome - Problem 125 
+
+Longest Mountain in Array - Problem 845 
+
+Linked List Cycle II - Problem 142 
+
+Merge Sorted Array - Problem 88 
+
+Remove Element - Problem 27 
+
+Container With Most Water - Problem 11 
+
+3Sum Closest - Problem 16 
+
+Longest Word in Dictionary through Deleting - Problem 524 
+
+Longest Substring Without Repeating Characters - Problem 3 
+
+Longest Substring with At Most K Distinct Characters - Problem 340 
+
+Trapping Rain Water II - Problem 407 
+
+Valid Palindrome II - Problem 680 
+
+ 
+
+ 
+
+Matrices 
+
+Set Matrix Zeroes - Problem 73 
+
+Spiral Matrix - Problem 54 
+
+Rotate Image - Problem 48 
+
+Matrix Diagonal Sum - Problem 1572 
+
+Search a 2D Matrix - Problem 74 
+
+Number of Islands - Problem 200 
+
+Pacific Atlantic Water Flow - Problem 417 
+
+Word Search - Problem 79 
+
+Valid Sudoku - Problem 36 
+
+Game of Life - Problem 289 
+
+Rotate Image - Problem 48 
+
+Matrix Zigzag Traversal - Problem 498 
+
+Diagonal Traverse - Problem 498 
+
+Toeplitz Matrix - Problem 766 
+
+Sparse Matrix Multiplication - Problem 311 
+
+Find Kth Smallest Element in a Sorted Matrix - Problem 378 
+
+Saddle Point in a Matrix - Problem 1380 
+
+Image Overlap - Problem 835 
+
+Count Square Submatrices with All Ones - Problem 1277 
+
+Maximal Square - Problem 221 
+
+ 
+
+Binary Search 
+
+Binary Search - Problem 704 
+
+Find Minimum in Rotated Sorted Array - Problem 153 
+
+Search in Rotated Sorted Array - Problem 33 
+
+Find Peak Element - Problem 162 
+
+Search Insert Position - Problem 35 
+
+Sqrt(x) - Problem 69 
+
+Valid Perfect Square - Problem 367 
+
+Arranging Coins - Problem 441 
+
+Peak Index in a Mountain Array - Problem 852 
+
+Kth Smallest Element in a Sorted Matrix - Problem 378 
+
+Find the Duplicate Number - Problem 287 
+
+Find Minimum in Rotated Sorted Array II - Problem 154 
+
+Find First and Last Position of Element in Sorted Array - Problem 34 
+
+Search a 2D Matrix - Problem 74 
+
+Find Minimum in Rotated Sorted Array with Duplicates - Problem 154 
+
+Median of Two Sorted Arrays - Problem 4 
+
+Search in Rotated Sorted Array II - Problem 81 
+
+Search a 2D Matrix II - Problem 240 
+
+Divide Two Integers - Problem 29 
+
+Maximum Width Ramp - Problem 962 
+
+ 
